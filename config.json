@@ -1,20 +1,11 @@
 {
-  "share_info": [
-    {
-      "title": " 爆爽！19年最火爆的消除小游戏来了！！",
-      "image": "https://picconfig.chiji-h5.com/share_pic/sxll_20190119181337.jpg"
-    },
-    {
-      "title": "承认吧，你是不可能玩到这个分数的！",
-      "image": "https://picconfig.chiji-h5.com/share_pic/sxll_20181222153711.png"
-    }
-  ],
-  "check": true,
-  "check_ad": true,
-  "videoTime": 60,
-  "ad_daoju2": true,
-  "ad_daoju3": true,
-  "ad_daoju": true,
-  "ad_fuhuo": true,
-  "check_0130": true
+  check_0524:false,
+  useAD:false,
+  vad:"adunit-9462cb9c8bd9f07f",
+  bad:"adunit-1be86a1f28c8e3d1",
+  bad_time:5,
+  share_title:"测试",
+  share_img:"",
+  share_title0:"测试0",
+  share_img0:""
 }
