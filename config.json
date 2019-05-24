@@ -1,11 +1,11 @@
 {
   'check_0524':false,
   'useAD':false,
-  'vad':"adunit-9462cb9c8bd9f07f",
-  'bad':"adunit-1be86a1f28c8e3d1",
+  'vad':'adunit-9462cb9c8bd9f07f',
+  'bad':'adunit-1be86a1f28c8e3d1',
   'bad_time':5,
-  'share_title':"测试",
-  'share_img':"",
-  'share_title0':"测试0",
-  'share_img0':""
+  'share_title':'测试',
+  'share_img':'',
+  'share_title0':'测试0',
+  'share_img0':''
 }
